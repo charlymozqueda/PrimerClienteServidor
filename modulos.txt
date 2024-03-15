@@ -1,0 +1,9 @@
+npm install bcryptjs cookie-parser cors express jsonwebtoken mongoose morgan nodemon zod
+cambiar//
+scripts
+"dev": "nodemon src/index.js"
+
+
+debajo de main 
+"type": "module",
+ 
